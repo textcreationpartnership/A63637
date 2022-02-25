@@ -1,0 +1,1592 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Protestant religion set forth by way of dialogue discovering the idolatries and abominations professed and taught in the Church of Rome / by a Presbyter of the Church of England.</title>
+            <author>Presbyter of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63637</idno>
+            <idno type="STC">Wing T2864</idno>
+            <idno type="STC">ESTC R4661</idno>
+            <idno type="EEBO-CITATION">12896062</idno>
+            <idno type="OCLC">ocm 12896062</idno>
+            <idno type="VID">95190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 928:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Protestant religion set forth by way of dialogue discovering the idolatries and abominations professed and taught in the Church of Rome / by a Presbyter of the Church of England.</title>
+                  <author>Presbyter of the Church of England.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95190:1"/>
+            <pb facs="tcp:95190:1"/>
+            <p>The true Proteſtant Religion ſet forth, BY WAY OF DIALOGUE <hi>Diſcovering the Idolatries</hi> and abominations PROFESSED and taught in the Church OF ROME</p>
+            <p>By a <hi>PRESBYTER</hi> of the Church of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Langly Curtiſs,</hi> &amp;c. 1683</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:95190:2"/>
+            <pb facs="tcp:95190:2"/>
+            <head>THE PREFACE.</head>
+            <head type="sub">To all Proteſtant Parents, and Maſters of Families.</head>
+            <p>I Need not tell you how deeply you ſtand ingaged to provide for the <hi>Spiritual,</hi> as well as <hi>Temporal good</hi> of your Children and Families. The Command of God by <hi>Moſes</hi> is plain, <hi>Theſe words which I command thee this day ſhall be in thine heart: And thou ſhalt teach them diligently to thy Children, and ſhalt talk of them when thou ſitteſt in thine houſe, when thou walkeſt by the way, when thou lieſt down, and when thou riſeſt up,</hi> Deut. 6.6, 7. The Apoſtle likewiſe is as plain, <hi>Eph.</hi> 6.4. <hi>And you Fathers, provoke not your Chil<g ref="char:EOLhyphen"/>dren to wrath, but bring them up in the nur<g ref="char:EOLhyphen"/>ture and admonition of the Lord.</hi>
+            </p>
+            <p>If ever you intend to perform this Duty, be careful of it now. The Prieſts and Jeſu<g ref="char:EOLhyphen"/>its
+<pb facs="tcp:95190:3"/>of <hi>Rome</hi> ſwarm amongſt us. They com<g ref="char:EOLhyphen"/>paſs Sea and Land to gain Proſelytes, and endeavour by all the wayes and Arts ima<g ref="char:EOLhyphen"/>ginable, to root out the true Chriſtian Pro<g ref="char:EOLhyphen"/>teſtant Religion, which hath ſo long flouriſh<g ref="char:EOLhyphen"/>ed amongſt us. It concerns therefore, now moſt eſpecially, all that fear the Lord, to conſider one another, to teach and exhort one another, to edifie and build up one an<g ref="char:EOLhyphen"/>other, in our moſt holy Faith and Duties of the Goſpel. Now, to the end you may know the true <hi>Chriſtian Faith,</hi> and the Differences between us and <hi>Rome;</hi> I have compoſed this little Book, which, when your Children have learned the Church Catechiſm, and in ſome meaſure begin to underſtand it, I con<g ref="char:EOLhyphen"/>ceive will be very uſeful for them. Accept it as candidly, as 'tis charitably offered to you, by one, whoſe onely aim and Deſign is, to do good in his Generation, that he may make his Accounts with comfort, at the coming of Jeſus Chriſt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:95190:3"/>
+            <head>A PROTESTANT CATECHISM.</head>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>SIR, By the Grace of God, and your help and care, I have learned the Church Catechiſm, and have been able to anſwer the Miniſter in the Publick Congregation, to ſuch Queſtions as he thought fit to propoſe to me. I have heard him likewiſe expound the Catechiſm, and ſhew the uſefulneſs of it, from that of <hi>Solomon,</hi> Prov. 22.6. <hi>Train up a Child in the way he ſhould go, and when he is old he will not depart from it:</hi> And yet for all this, I muſt confeſs, I underſtand but little of Religion; I hear ſome<g ref="char:EOLhyphen"/>times a great deal of Diſcourſe about it, but I ſee little Practice of it. I pray therefore, as you have been careful to provide for my Outward man, ſo make ſome proviſion for my Inward man alſo, that I may not be always as a Child, <hi>toſſed to and fro, and carried about with every wind of Doctrine, by the ſlight of men, and cunning craftineſs, whereby they lye in wait to deceive,</hi> as the Apoſtle ſpeaks, <hi>Eph.</hi> 4.14.</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>My good Child, I am very glad to ſee ſuch ſigns and ſymp<g ref="char:EOLhyphen"/>tomes of Grace in you, to hear you inquire after God and the Goſpel of Chriſt. God forbid that I ſhould ſin againſt God, in ceaſing to in<g ref="char:EOLhyphen"/>ſtruct you, and to bring you up in the Nurture and Admonition of the Lord: I will, to the utmoſt of my Power, teach you the good and the right way.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>I heartily thank you for your Love to my poor Soul, and I praiſe the Name of the Lord, who hath given me ſo good a Father, and I hope he will give me Grace to honour and obey you, and to remem<g ref="char:EOLhyphen"/>ber your words all the dayes of my life. <hi>And firſt, I pray you, tell me what Religion I muſt profeſs?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>You muſt profeſs, Child, the Chriſtian Religion; for we read, the Diſciples were called Chriſtians firſt at <hi>Antioch, Acts</hi> 11.26.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But, Sir, I meet with ſome men that call themſelves Catholicks; are not they Chriſtians?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:95190:4"/>
+               <speaker>Father.</speaker>
+               <p>Yes, They are Chriſtians, but the worſt Chriſtians in the World; for they are Idolatrous Chriſtians, and have almoſt deſtroyed the Chriſtian Religion by their Inventions.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray, Sir, what do you call theſe men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Law calls them <hi>Popiſh Recuſants,</hi> but we uſually call them <hi>Papiſts,</hi> becauſe they believe the Pope of <hi>Rome</hi> to be the Head of the Church, and obey his Commands, though contrary to the Com<g ref="char:EOLhyphen"/>mands of God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>And what do theſe men call us?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>When they may ſpeak their mind freely, they call us Here<g ref="char:EOLhyphen"/>ticks. And this we confeſs with St. <hi>Paul, Acts</hi> 24.14. that after the way which they call Hereſie, ſo worſhip we the God of our Fathers, believing all things which are written in the Law and the Prophets.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But do they not ſometimes call us by the Name of Proteſtants?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes, and we do not diſown the Name: for we do proteſt againſt the Errours of the Church of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do they call us by any other Names?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes, They call us <hi>Lutherans</hi> and <hi>Calviniſts,</hi> and what elſe they pleaſe, though it be a known truth, that the Church of <hi>England</hi> loves no <hi>Niſms.</hi> We pin not our Faith upon any man's ſleeve. We ho<g ref="char:EOLhyphen"/>nour <hi>Luther</hi> and <hi>Calvin,</hi> and many others whom God raiſed up in the darkeſt times to preach the Goſpel, and to diſcover the Errours and Abominations of <hi>Rome:</hi> but we profeſs no <hi>Lutheraniſm</hi> nor <hi>Calviniſm,</hi> nor indeed any thing of Mens invention, but what we find in the Word of God: Neither dare we turn the Faith of our Lord in reſpect of Per<g ref="char:EOLhyphen"/>ſons, or cry up one man in oppoſition to another. For, while one ſaith <hi>I am of</hi> Paul, <hi>and another, I am of</hi> Apollo, <hi>are ye not carnal?</hi> 1 <hi>Cor.</hi> 3.4. <hi>Is Chriſt divided? was</hi> Paul <hi>crucified for you? were you baptized in the name of</hi> Paul? chap. 1.13.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But, Sir, I have heard ſome Papiſts ſay, that the Proteſtant Reli<g ref="char:EOLhyphen"/>gion is a new Religion, and therefore not true: is it ſo indeed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father,</speaker>
+               <p>No. The Religion we profeſs was taught by Jeſus Chriſt, and preached by the Apoſtles to all the World. <hi>Go teach all Nations, and baptize them in the Name of the Father, and of the Son, and of the Holy Ghoſt, teaching them to obſerve all things whatſoever I have commanded you,</hi> Matth. 28.19.20. Whatſoever Jeſus Chriſt and his Apoſtles taught, we believe; if they taught the true Chriſtian Religion, we believe and profeſs it.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But I have heard ſome Papiſts put this Queſtion to ſome Prote<g ref="char:EOLhyphen"/>ſtants, Where was your Religion to be found before</hi> Luther? <hi>what Anſwer may be given to that Queſtion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:95190:4"/>
+               <speaker>Father.</speaker>
+               <p>Our Religion was, and is now to be found, where theirs ne<g ref="char:EOLhyphen"/>ver was, nor will be found; in the Word of God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is the Scripture then the Rule of Faith and Obedience?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. All Scripture is given by inſpiration of God, and is profitable for Doctrine, for Reproof, for Correction, for Inſtruction in Righteouſneſs, that the man of God may be perfect, throughly fur<g ref="char:EOLhyphen"/>niſhed unto all good Works, 2 <hi>Tim.</hi> 3.16, 17.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But beſides the Scriptures, have we not a Profeſſion of Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. We have the <hi>Nicene</hi> Creed, made by the Fathers of the <hi>Nicene</hi> Councel, the Creed of <hi>Athanaſius,</hi> and that which is commonly call'd the Apoſtles Creed, which ought throughly to be believed; for they may be proved by moſt certain Warrants of holy Scripture, as our Church declares, <hi>Art.</hi> 8.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But do theſe Creeds contain the true Chriſtian Catholick Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They contain all neceſſary points in Religion, to be believ'd, and have therefore been call'd the Key and Rule of Faith, and the Church never knew any other Creed or confeſſion of Faith, for ma<g ref="char:EOLhyphen"/>ny hundred years.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is this the Faith which I muſt profeſs, and ſeal with my Blood, if I be called to it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. Hold faſt the form of ſound words, which thou haſt heard of me, in Faith and Love, which is in Chriſt Jeſus, 2 <hi>Tim.</hi> 1.13. Hence <hi>Athanaſius</hi> thus concludes, This is the Catholick Faith, which except a man believe faithfully, he cannot be ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But do not the Papiſts own theſe three Creeds as well as we?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They do own them as part of the Chriſtian Faith, though they little regard them; but not as the whole Chriſtian Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Have they any other Creed or Profeſſion of the Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The decrees of their Popes, and the Canons of their late Popiſh Councels, they hold to be Articles of Faith: but eſpecially, they own and maintain the new Creed, made by the Councel of <hi>Trent,</hi> and confirmed by Pope <hi>Pius</hi> the fourth, in the year 1564.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is it lawful, Sir, to make a new Creed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, in no wiſe. Though we (ſaith St. <hi>Paul</hi>) or an Angel from Heaven, preach any other Goſpel, than that which we have preached unto you, let him be accurſed. <hi>Gal.</hi> 1.8.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I perceive by what you have ſpoken, that notwithſtanding the Pa<g ref="char:EOLhyphen"/>piſts talk of the old Religion, they have made a new Creed, and brought in a new Religion; and that we are call'd Proteſtants, becauſe we proteſt againſt it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:95190:5"/>
+               <speaker>Father.</speaker>
+               <p>You conclude very well: and that you may be confirmed and ſtrengthened in the true Faith, I will ſhew you the <hi>Trent</hi> Creed, and give you ſome ſhort Obſervations upon it. Firſt, I moſt firmly receive and embrace the Apoſtolical and Eccleſiaſtical Traditions, and all other Cuſtoms and Conſtitutions of the ſame Church.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What be thoſe Traditions and Cuſtoms of the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Truly Child I know not, neither do they themſelves, neither will they tell us what they be; but when they can make no proof for a Doctrine out of the Word of God, they ſay 'tis a Tradition; and yet, this Chriſt condemns in the <hi>Jews, Mark</hi> 7.7, 9. In vain do they wor<g ref="char:EOLhyphen"/>ſhip me, teaching for Doctrines, the Commandments of men: full well ye reject the Commandments of God, that you may keep your own Traditions.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>If this be the firſt Article of their new Creed, they begin well: for, as far as I can underſtand, the real Senſe and Import thereof, is, I believe in the Pope, for whatſoever he ſays is a Tradition, muſt be believ'd. I pray Sir, what is the ſecond?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The ſecond Article is, I admit the holy Scripture in that ſenſe which the holy Mother-Church hath held and holdeth, to whom it belongs to judge of the true Senſe and Interpretation of the holy Scrip<g ref="char:EOLhyphen"/>tures; nor will I ever receive or interpret them, but according to the unanimous Conſent of the Fathers.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Here is a form of receiving the Scriptures, but I perceive it muſt be in ſuch Tenor and Senſe, as the Fathers admit; that is, I ſuppoſe, the Pope and his Council. But do they ſuffer the People to read the Scrip<g ref="char:EOLhyphen"/>tures?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No Child, they dare not do it, they know that would de<g ref="char:EOLhyphen"/>ſtroy Popery Root and Branch; and yet Chriſt ſays, Search the Scrip<g ref="char:EOLhyphen"/>tures, for in them you think you have eternal Life, and they are they which teſtifie of me, <hi>John</hi> 5.39. And the <hi>Bereans</hi> are commended, and ſaid to be nobler than thoſe in <hi>Theſſalonica,</hi> in that they received the word with all Readineſs of mind, and ſearched the Scriptures daily, whether thoſe things were ſo, <hi>Acts</hi> 17.11, 12.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But ſince they keep the power of Interpretation, methinks they might ſuffer People to read the Scriptures, with their Gloſſes upon it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No Child, they dare not, for they would quickly find their Gloſſes to be falſe, the Scripture is ſo plain, teaching us, that no Pro<g ref="char:EOLhyphen"/>phecy of the Scripture, is of any private Interpretation: for the Prophe<g ref="char:EOLhyphen"/>cy came not in old time by the Will of Man, but holy men of God ſpake as they were moved by the Holy Ghoſt, 2 <hi>Pet.</hi> 1.20.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:95190:5"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But are all things neceſſary to Salvation, plainly to be found in Scripture?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The teſtimony of the Lord is ſure, making wiſe the Simple. <hi>Pſal.</hi> 19.8, 9. Thy word is a Lamp unto my Feet, and a Light unto my Path. <hi>Pſal.</hi> 119.108. From a child thou haſt known the ho<g ref="char:EOLhyphen"/>ly Scriptures, which are able to make thee wiſe unto Salvation. 2 <hi>Tim.</hi> 3.15.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>You have ſaid enough to this, I pray God ſet it home to my Heart. I pray Sir proceed to the third Article.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The third Article is, I profeſs alſo, that there are 7 true and proper Sacraments of the new Law, inſtituted by Jeſus Chriſt our Lord for the Salvation of Mankind, although all are not neceſſary to each one; to wit, Order, Baptiſm, Confirmation, Euchariſt, Pennance, extream Unction, Matrimony, and thoſe all give Grace, and of theſe, Baptiſm, Confirmation, and Order cannot be reiterated without Sacri<g ref="char:EOLhyphen"/>ledge.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Did Jeſus Chriſt appoint theſe</hi> Seven Sacraments?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, ſome of them had their being before, and ſome after Chriſt's time; only Baptiſm and the Euchariſt, or Lords Supper, were inſtituted immediately by Chriſt, received their Forms from him, and flowed out of his wounded ſide; whence it cometh, that Water is the matter of Baptiſm, and Bread and Wine of the Lords Supper.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I obſerve that they make Matrimony a Sacrament, and ſay it gives Grace, and yet I have heard that they will not ſuffer their Prieſts to marry. Is that true?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. 'Tis true they do ſo, but 'tis contrary to the word of God: for we read, 1 <hi>Tim.</hi> 3.2. <hi>A Biſhop muſt be blameleſs, the Husband of one Wife,</hi> having his Children in Subjection.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir what is the fourth Article?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>I alſo receive and admit all received and approved Rights of the Catholick Church, in the ſolemn Adminiſtrations of all the above<g ref="char:EOLhyphen"/>ſaid Sacraments.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir what are thoſe approved Rights?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The vain Superſtitions, and idolatrous Rites of the Church of <hi>Rome,</hi> in the Adminiſtration of the Sacraments, are ſo many, that they cannot eaſily be numbred. However, ſome of the Principal that are in my mind, I ſhall diſcover to you. In Baptiſm, they conjure the Devil out of the Child, they uſe many Croſſings, and beſides Water, they uſe Chriſme or Cream, Salt, and the Prieſts Spittle. In the Eu<g ref="char:EOLhyphen"/>chariſt, after the words of Conſecration, they elevate the Hoaſt, as they
+<pb n="6" facs="tcp:95190:6"/>call it, that is, the conſecrated Wafer, and they ring a Bell to give the People notice of it, that they may adore it. If any of the People receive, which is very ſeldome, they muſt not touch it with their hands, but the Prieſt muſt put it into their mouths, and there it muſt diſſolve. Theſe and ma<g ref="char:EOLhyphen"/>ny other ſuch like Ceremonies, are made Articles of Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But did Chriſt ordain none of thoſe Rites?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. <hi>John</hi> came baptizing with Water, <hi>John.</hi> 1.31. The Eu<g ref="char:EOLhyphen"/>nuch ſaid to <hi>Philip,</hi> here is water, what doth hinder me to be baptized? <hi>Acts</hi> 8.36. For I have received of the Lord, that which alſo I delivered to you, ſaith St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 11.25. That the Lord Jeſus, the ſame night that he was betray'd, took Bread, and when he had given thanks, he brake it, and ſaid, Take, eat, this is my Body, which is broken for you; this do in remembrance of me. They do neither break the Bread, nor ſuffer the People to take, or eat it.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I have heard enough of this, I pray, Sir, proceed to the fifth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>I alſo embrace and receive all and ſeveral the things which have been defined and declared in the Sacred and holy Synod of <hi>Trent,</hi> concerning Original Sin and Juſtification.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What Doctrines do they hold concerning Original Sin and Juſti<g ref="char:EOLhyphen"/>fication?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The things declared, and defined by the Councel of <hi>Trent,</hi> concerning Original Sin and Juſtification, are too many to be here re<g ref="char:EOLhyphen"/>cited. They teach, that Concupiſcence is no ſin after Regeneration, that 'tis waſhed away by Baptiſm. That the firſt motions thereof is no ſin. Concerning Juſtification, they declare, that we are Juſtified by Works, that good Works are meritorious; nay, that there be Works of ſupererogation, whereby the Saints do merit not onely for them<g ref="char:EOLhyphen"/>ſelves but for others; and out of the ſuperabundant Merits of Chriſt and the Saints, the Treaſure of the Church is made up; which the Pope hath power to diſpence to vvhom he pleaſe, vvhich brings him in great Treaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But what doth the Scripture ſay to theſe things?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>
+                  <hi>David</hi> confeſſeth his Original Sin, as the Root and Fountain of all Sin, <hi>Pſal.</hi> 51.5. Behold, I was ſhapen in iniquity, and in ſin did my Mother conceive me. And St. <hi>Paul</hi> complains of it, <hi>Rom.</hi> 7.18. I know that in me, that is, in my fleſh, dwelleth no good thing, for to vvill is preſent vvith me, but hovv to perform that vvhich is good, I knovv not.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But are we not juſtified by our Works?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:95190:6"/>
+               <speaker>Father.</speaker>
+               <p>No Child. We are juſtified freely by his Grace, through the Redemption that is in Jeſus Chriſt, <hi>Rom.</hi> 3.24. <hi>&amp; v.</hi> 27.28. <hi>Where is boaſting then? it is excluded: by what Law? of Works? Nay, but by the Law of Faith. Therefore we conclude, that a man is juſtified by Faith without the Deeds of the Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>If we are not juſtified by Works, then certainly we cannot merit by them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>You ſay well: and the ſame Chriſt teaches us in the Goſpel, <hi>Luke</hi> 17.10. <hi>When you ſhall have done all thoſe things that are commanded you, ſay, We are unprofitable Servants; we have done that which was our duty to do.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the ſixth Article?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>I alſo profeſs, that in the Maſs there is offered to God, a true, proper, and propitiatory Sacrifice for the Living and the Dead; and that in the moſt holy Sacrament of the Euchariſt, is contained tru<g ref="char:EOLhyphen"/>ly, really, and ſubſtantially, the Body and Blood, together with the Soul and Divinity of the Lord Jeſus Chriſt, and there is made a perfect Change of the whole ſubſtance of the Bread, into his Body: and of the whole Subſtance of the Wine into his Blood, which change the Catho<g ref="char:EOLhyphen"/>lick Church calleth <hi>Tranſubſtantiation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>In this Article are many things that I would be glad to under<g ref="char:EOLhyphen"/>ſtand.</hi> 1. <hi>What I pray Sir is meant by the Maſs?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>'Tis an old word that few underſtand, the word <hi>Miſſa</hi> ſome ſay, did ſignifie to diſmiſs ſome out of the Aſſembly, even all that did not communicate, which if it ſhould do ſo ſtill, would leave the Prieſt alone: for now he uſually communicates by himſelf, and the People look on. But I rather think 'tis call'd the Maſs, becauſe 'tis a meſs, or maſs of Corruption.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But why is is call'd a Sacrifice for the Living and the Dead? I thought Sacrifice had ceaſed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>True Child, ſo the Apoſtle, <hi>Heb.</hi> 9.28. <hi>Chriſt was once offer'd to bear the Sins of many.</hi> and Chap. 10.12. <hi>But this man after he had of<g ref="char:EOLhyphen"/>fer'd one Sacrifice for Sins for ever, ſate down on the right hand of God.</hi> and verſe 14. <hi>By one Offering he hath perfected for ever, them that are ſanctified.</hi> It may be call'd a Sacrifice, becauſe it is a Repreſentation and Memori<g ref="char:EOLhyphen"/>al of the true Sacrifice of Chriſt on the Croſs, and becauſe it makes us Partakers of the ſame, but no otherwiſe as I know of.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But is is the Bread and Wine changed into the Body and Blood of Chriſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:95190:7"/>
+               <speaker>Father.</speaker>
+               <p>No Child, certainly if it were, we ſhould ſee it with our Eyes, and handle it with our hands, and ſmell it, and taſt it ſo to be; but we ſee it, and handle it, and ſmell it, and taſt it, Bread and Wine, and there<g ref="char:EOLhyphen"/>fore no doubt ſo it is. After this manner St. <hi>John</hi> writes, That which was from the Beginning, which we have heard, which we have ſeen with our Eyes, which we have looked upon, and our hands have han<g ref="char:EOLhyphen"/>dled of the word of Life, 1 <hi>Joh.</hi> 1.1. and <hi>ver.</hi> 3. <hi>That which we have ſeen and heard, declare we unto you, that you may have Fellowſhip with <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But what doth the Scripture call it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Scripture after Conſecration, calls it Bread three times together, 1 <hi>Cor.</hi> 11.26.27.28. <hi>For as often as ye eat this Bread and drink this Cup, ye do ſhew the Lords Death till he come. Wherefore whoſoever ſhall eat this Bread and drink this Cup of the Lord unworthily, ſhall be guilty of the Body and Blood of the Lord. But let a man examine himſelf, and ſo let him eat of that Bread, and drink of that Cup.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But is it plain Bread and Wine, and no more?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>O no! God by theſe Signs of Bread and Wine ſignifieth, ſealeth, and exhibiteth to every faithful Receiver, the Body and Blood of Chriſt, and all the merits of his Death and Paſſion: So the Apoſtle, 1 <hi>Cor.</hi> 10.16. <hi>The Cup of Bleſſing which we bleſs, is it not the Communion of the Blood of Chriſt? the Bread which we break, is it not the Communi<g ref="char:EOLhyphen"/>on of the Body of Chriſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But what is this they call Tranſubſtantiation?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The word ſignifies the Change of one Subſtance into another, and thereby they expreſs their Doctrine of the corporal Preſence, but neither the word nor thing is to be found in Scripture, nor in the Wri<g ref="char:EOLhyphen"/>tings of the primitive Fathers: neither was it pretended to be an Arti<g ref="char:EOLhyphen"/>cle of Faith, till the <hi>Lateran</hi> Counſel, 1200 years after Chriſt; and therefore we proteſt againſt it, and ſay, that what the Church of <hi>Rome</hi> teaches of Tranſubſtantiation, is abſolutely impoſſible, and implies Contradictions very many; to the Belief of which, no Faith can oblige, us, and which no reaſon can endure.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir what do they teach concerning the Cup?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>That you ſhall ſee in the Article which runs thus, I confeſs alſo, that whole and entire Chriſt, and the true Sacrament is received under one only Species of Bread.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>By this Article I am apt to think they do not give the Cup to the People, and indeed ſo I have heard, but do they dare to do ſo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. Notwithſtanding we read in the Goſpel, <hi>Matth.</hi> 26.26.27. <hi>That Jeſus took the Bread and bleſſed it, and break it, and gave it to his Diſciples. And he took the Cup, and gave it to them, ſaying, drink ye all of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:95190:7"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I wonder at this very much, I pray Sir what do the Chriſtians of the Church of</hi> England <hi>ſay to this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>We ſay 'tis Sacriledge, and tell them plainly, that they do diſmember the Inſtitution of Chriſt, and prevaricate his expreſs Law and Creed from the practice of the Apoſtles.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What do the Papiſts ſay to this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They take Liberty to ſay and do what they pleaſe: for tho they confeſs it was the Inſtitution of Chriſt, and the Practice of the Primitive Church, yet they lay it aſide, and curſe all them that ſay they do amiſs in it; that is, they curſe them that follow Chriſt and his Apoſtles, and his Church, while themſelves deny to follow them.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>The Lord deliver me from Communion with ſuch a Church. Have they any more ſuch Articles of Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The eighth Article is, I conſtantly hold that there is a Purgatory, and that Souls there detained, are holpen by the Suffrages of the faithful.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I have heard indeed, that the Papiſts talk much of Purgatory, but is there any ſuch place?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>As I ſaid of Tranſubſtantiation, ſo I ſay of <hi>Purgatory;</hi> nei<g ref="char:EOLhyphen"/>ther name nor thing is to be found in Scripture, nor the primitive Fathers of the Church, for above a thouſand years; nay the Scripture is expreſs againſt it. <hi>He that heareth my word and believeth on him that ſent me, hath eternal Life, and cometh not into Judgment, but paſſeth from Death unto Life.</hi> John 5.24. <hi>Bleſſed are the dead that dye in the Lord, from henceforth, even ſo ſaith the Spirit, that they may reſt from their Labours. Rev.</hi> 14.13. <hi>If the dead in Chriſt be at Reſt, then the doctrine of the horrible pains of Purgatory, is as falſe as 'tis uncomfortable.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>One would wonder why the Church of</hi> Rome <hi>ſhould invent and defend ſuch an idle thing as Purgatory is.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>You are, Child, much deceived in this, 'tis no ſuch idle thing as you imagine: the Fire of Purgatory maintains the Fire in the Pope's Kitchin; for though it be ſaid that the Souls in Purgatory are holpen by the Suffrages of the faithful, yet certain it is, the Pope lays claim to a greater Power in that infernal Territory, and boaſteth to poſſeſs the Keys thereof, and to open and ſhut at his Pleaſure, eſpecially to ſuch as are rich and liberal, and the Prieſts for ſaying Maſſes and Dirges, get more money than you can imagine.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Nay, if it be ſo gainful, 'tis no wonder; for I have heard 'tis a Proverb with them, No Penny, no Pater noſter.</hi> But I pray proceed, what is the ninth Article?</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:95190:8"/>
+               <speaker>Father.</speaker>
+               <p>Likewiſe, that the Saints reigning with Chriſt, are to be wor<g ref="char:EOLhyphen"/>ſhipped and invocated, and that they offer Prayers for us to God, and that their Relicks are to be worſhipped.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do the Papiſts worſhip the Saints.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They worſhip the Virgin <hi>Mary,</hi> and all the Saints; though Chriſt ſays plainly, <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> Mat. 4.10. They worſhip likewiſe the Angels, and particularly, their Guardian Angel, though the Angels abhor it. <hi>I fell down to worſhip before the Feet of the Angel, which ſhewed me theſe things. Then ſaid he unto me, ſee thou do it not, for I am thy Fellow-Servant, and of thy Brethren the Prophets, and of them which keep the Sayings of this Book, worſhip God,</hi> Revel. 22.8, 9.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What Worſhip do they give to the Saints?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They pray to them, they worſhip and invocate them more than God; like the Heathen, who changed the Truth of God into a Lye, and worſhipped and ſerved the Creature, more than the Creator, who is bleſſed for ever, <hi>Amen. Rom.</hi> 1.25.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Have they any guide for this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, They have neither Precept, nor Promiſe, nor Example for it, in the Word of God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But are they ſure the Saints hear them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, neither. <hi>Doubtleſs thou art our Father, though</hi> Abraham <hi>be ignorant of us, and</hi> Iſrael <hi>know us not,</hi> Iſa. 63.16. <hi>ſo</hi> David, Pſal. 73.25. <hi>Whom have I in Heaven but thee? and there is none upon Earth that I deſire, beſides thee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But do they worſhip not only the Saints themſelves but their Re<g ref="char:EOLhyphen"/>licks alſo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They put them in Glaſſes and Gauderies above the Al<g ref="char:EOLhyphen"/>tar, and that to have them adored. They have this day, the Milk of the Virgin, which they ſay is as precious as the Blood of Chriſt; and her Slippers, and her Work-basket, and <hi>Joſeph's</hi> Breeches, and the Navel-ſtring of Chriſt, and a thouſand other things, which they keep and ſhew to be worſhipped. And yet St. <hi>Paul</hi> ſays, <hi>Act.</hi> 14.15. Sirs, Why do you theſe things? We alſo are men of like Paſſions with you, and preach unto you, that you ſhould turn from theſe Vanities, unto the Living God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is there any thing elſe that they worſhip?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The tenth Article is, I moſt firmly aſſert, that the Ima<g ref="char:EOLhyphen"/>ges of Chriſt, the Virgin <hi>Mary,</hi> and of the other Saints, are to be had and kept, and duty of Honour and worſhip to be given them.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:95190:8"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is not this point-blanck contrary to the Word of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The Commandment is plain, Thou ſhalt not make to thy ſelf any graven Image, nor the Likeneſs of any thing that is in Heaven above, or in the Earth beneath, or that is in the Water under the Earth. Thou ſhalt not bow down thy ſelf to them, nor ſerve them. <hi>Exod.</hi> 20.4.5. Notwithſtanding, they make Images of God the Father, in the likeneſs of an old man, of God the Son hanging on the Croſs; and of God the Holy Ghoſt, in the likeneſs of a Dove: They make alſo the Image of the Virgin <hi>Mary,</hi> and cloth her like a Lady, and call her Queen of Heaven; and alſo of the Apoſtles and other Saints, and they put off their Hats, they kneel, and fall down, and pray before them.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>If this be not Idolatry I know not what is. I pray Sir what is the next Article?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The eleventh Article is, I alſo affirm, that the Power of In<g ref="char:EOLhyphen"/>dulgences was left in the Church by Chriſt, and that the uſe of them is moſt conducive to Salvation of the Chriſtian people.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do they give Indulgence or Pardon for Sin?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The Pope giveth Indulgence or Pardon for Sin, ſome<g ref="char:EOLhyphen"/>times for ten, twenty, or thirty thouſand years, which brings him in a great Revenue: and yet St. <hi>Peter</hi> ſays, <hi>Foraſmuch as you know, that ye were not redeemed with corruptible things, as Silver and Gold, but with the pretious Blood of Chriſt.</hi> 1 Pet. 1.18.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Have they any more Articles of Faith?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes Child. The twelfth Article runs thus; The Holy Catho<g ref="char:EOLhyphen"/>lick and Apoſtolick Church of <hi>Rome</hi> I acknowledge to be the Mother and Miſtreſs of all Churches; and I vow, ſwear, and promiſe Obedi<g ref="char:EOLhyphen"/>ence to the Biſhop of <hi>Rome,</hi> as Succeſſor of B. <hi>Peter,</hi> Prince of the Apo<g ref="char:EOLhyphen"/>ſtles, and Vicar of Jeſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>This ſeems to me, to be the worſt I have heard yet, for it makes all Churches ſubject to</hi> Rome, <hi>and the Pope Lord and Maſter of all the World: Doth the Scripture call the Church of</hi> Rome, <hi>the Mother and Mi<g ref="char:EOLhyphen"/>ſtreſs of all Churches?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No Child, <hi>Rome</hi> is not the Mother-church, for the Goſpel came from <hi>Jeruſalem: Thus it is written, and thus it behoved Chriſt to ſuffer,</hi> &amp;c. <hi>And that Repentance and Remiſſion of Sins, ſhould be preached in his name among all Nations, beginning at</hi> Jeruſalem. <hi>Luc.</hi> 24.46.47. Jeruſalem <hi>which is above, is free, which is the Mother of us all,</hi> Gal. 4.26. Neither is it the Miſtreſs of all Churches. It ſeemeth good unto the Holy Ghoſt, and to us, ſaith the Apoſtles and Elders, and the whole Church aſſembled at <hi>Jeruſalem, Act.</hi> 15.22, 23, 28, 29. to lay upon you no greater burden than theſe neceſſary things.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:95190:9"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But the Pope, it ſeems, requires obedience from all Chriſtians, doth the Scripture command any ſuch thing?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Scripture commands obedience to our Paſtors, but not to the Pope. Obey them that have the rule over you, and ſubmit your ſelves, for they watch for your Souls, as they that muſt give account, <hi>Heb.</hi> 13.7.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is the Popedom an Office in the Miniſtry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. He gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors and Teachers, for the perfecting the work of the Miniſtry, and for the edifying of the Body of Chriſt, <hi>Eph.</hi> 4.11, 12.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Was St. Peter Prince of the Apoſtles?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. Ye know that the Princes of the Gentiles exerciſe Do<g ref="char:EOLhyphen"/>minion over them, and they that are great exerciſe Authority upon them: But it ſhall not be ſo among you; but whoſoever will be great among you, let him be your Servant, <hi>Matth.</hi> 20.25, 26.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is the Pope St. Peter's Succeſſor?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Truly Child, I know not: 'tis probable he never was at <hi>Rome.</hi> St. <hi>Paul</hi> makes no mention of him, neither in his Epiſtle to the <hi>Romans,</hi> nor in any of his Epiſtles from <hi>Rome;</hi> and St. <hi>Peter</hi> himſelf writes not to the <hi>Romans,</hi> but to the <hi>Jews</hi> ſcattered throughout <hi>Pontus, Galatia, Capadocia, Aſia,</hi> and <hi>Bithynia,</hi> 1 <hi>Pet.</hi> 1.1. and ſubſcribes his E<g ref="char:EOLhyphen"/>piſtle from <hi>Babylon,</hi> chap. 5.13. ſo that unleſs <hi>Rome</hi> be <hi>Babylon,</hi> 'tis not likely <hi>St. Peter</hi> was there.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But is there not one Viſible Head of the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. We are built upon the foundation of the Apoſtles and Prophets, Jeſus Chriſt himſelf being the chief corner-ſtone, <hi>Eph.</hi> 2.20. There is one Body and one Spirit, even as you are called, in one hope of your Calling, one Lord, one Faith, one Baptiſm, one God and Father of all, <hi>Eph.</hi> 4.4, 5, 6.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But was not St. Peter the great Apoſtle of the Gentiles?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. But contrariwiſe, when they ſaw that the Goſpel of the Uncircumciſion was committed unto me, as the Goſpel of the Circum<g ref="char:EOLhyphen"/>ciſion was unto <hi>Peter,</hi> (for he that wrought effectually in <hi>Peter</hi> to the Apoſtleſhip of the Circumciſion, the ſame was mighty in me towards the Gentiles) And when <hi>James, Cephas,</hi> and <hi>John,</hi> who ſeemed to be Pillars, perceived the Grace that was given unto me, they gave to me and <hi>Barnabas</hi> the right hands of Fellowſhip, that we ſhould go to the Heathen, and they unto the Circumciſion, <hi>Gal.</hi> 2.7, 8, 9.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:95190:9"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>By all this I perceive, that neither the Pope nor St. Peter himſelf, hath, or had any Dominion or Authority over the Church of Chriſt, and yet I have heard, that the Pope claims Authority to depoſe Kings; Is that lawful?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. St. <hi>Paul</hi> ſayes, Put them in mind to be ſubject to Prin<g ref="char:EOLhyphen"/>cipalities and Powers, to obey Magiſtrates, to be ready to every good work, <hi>Tit.</hi> 3.1. And St. <hi>Peter</hi> is more plain, and gives the Supremacy to Kings. Submit your ſelves to every Ordinance of Man for the Lords ſake, whether it be to the King, as Supreme, or unto Governours, as unto them that are ſent by him, for the puniſhment of evil Doers, and for the praiſe of them that do well, for ſo is the Will of God, 1 <hi>Pet.</hi> 2.13, 14.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth not the Pope alſo abſolve from Oaths of Allegiance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. And yet <hi>Solomon</hi> ſayes, I counſel thee to keep the Kings commandement, and that in regard of the Oath of God, <hi>Eccl.</hi> 8.2.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth he claim any other Power?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. He can make right, wrong, and Juſtice Injuſtice, ſay the Jeſuits, and they are bound to believe he commands well, what<g ref="char:EOLhyphen"/>ſoever the thing be; and that all things enjoyned are juſt and good, ſo good, that nothing better could be done; ſo that they ſpeak mo<g ref="char:EOLhyphen"/>deſtly of his Power, that ſay he can diſpence with the Commande<g ref="char:EOLhyphen"/>ments of God: And yet Chriſt ſayes, Whoſoever ſhall break one of theſe leaſt Commandements, and ſhall teach men ſo, he ſhall be called the leaſt in the Kingdom of Heaven, <hi>Matth.</hi> 5.19.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Can ſuch a man as this be a Chriſtian Biſhop, or be termed his Holineſs?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. The Scripture calls him the Man of Sin, the Son of Per<g ref="char:EOLhyphen"/>dition, who oppoſeth, and exalteth himſelf above all that is called God, or that is worſhipped; ſo that he, as God, ſitteth in the Temple of God, ſhewing himſelf that he is God, 2 <hi>Theſ.</hi> 2.3, 4.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth the Scripture deſcribe him by any other marks?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. <hi>v.</hi> 9. Even him whoſe coming is after the working of Sathan, with all Power, and Signs, and lying Wonders.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Indeed, I have heard the Prieſts and Jeſuits of</hi> Rome <hi>pretend to caſt out Devils, and work Miracles, Do they ſo in</hi> England?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes, Ever and anon ſome Popiſh Perſon or other is poſ<g ref="char:EOLhyphen"/>ſeſſed, and then a Prieſt comes and exorciſes him, and caſts out the Devil, but their juggling tricks are uſually diſcovered. Such an one was the Boy of <hi>Bilſon</hi> in <hi>Staffordſhire,</hi> whoſe tricks were all laid open before the Judge and Grand Jury at <hi>Stafford Aſſizes</hi> by the Biſhop of the Dioceſe.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:95190:10"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth not St.</hi> John <hi>alſo deſcribe him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. <hi>Revel.</hi> 7.3, 4, 5, 6. <hi>I ſaw a woman ſit upon a Scarlet-colour'd Beaſt, full of Names of Blaſphemy, having ſeven Heads, and ten Horns. And the Woman was array'd in Purple and Scarlet colour, and decked with Gold, and pretious Stones and Pearls, having a golden Cup in her hand full of Abominations, and Filthineſ's of her Fornication. And upon her Head was a name written,</hi> Myſtery, Babylon the Great, the Mother of Harlots, and Abominations of the Earth. <hi>And I ſaw the Woman drunken with the Blood of the Saints, and with the blood of the Martyrs of Jeſus; and when I ſaw her I wondred with great Admiration.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth this concern the Pope and Church of</hi> Rome?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. So the Angel interprets, <hi>v.</hi> 9.18. <hi>The ſeven Heads are ſe<g ref="char:EOLhyphen"/>ven Mountains, on which the Woman ſitteth, and the Woman which thou ſaweſt, is that great City which reigneth over the Kings of the Earth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>If this be the Pope and Church of</hi> Rome, <hi>the Lord give me Grace to avoid Communion with them,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>You ſay well, for we have a command to that purpoſe, <hi>Rev.</hi> 18.4, 5. I heard a Voice from Heaven, ſaying, Come out of her my People, that ye be not Partakers of her Sins, and that ye receive not of her Plagues, for her ſins have reached unto Heaven, and God hath remembred her Iniquities.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is this the laſt Article of the</hi> Trent <hi>Creed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, they have two more: The thirteenth Article is, alſo all and whatſoever other thing delivered by way of Tradition, defined and declared by the holy Canons, and the general Councils; and chiefly, by the ſacred and holy Synod of <hi>Trent,</hi> I undoubtedly receive, and profeſs, and together all contrary things, and whatſoever Hereſies, damned, rejected, and accurſed, I alſo damn, reject, and accurſe.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>You have ſpoken ſomething already of Tradition, is there any thing more to be known?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They make their unwritten Traditions and the Canons of their Councels, equal to the word of God, and neceſſary to Salva<g ref="char:EOLhyphen"/>tion: Nay, they make the Councel of <hi>Trent</hi> the only meaſure and rule of Faith in the Church of <hi>Rome.</hi> Whereas, on the contrary, St. <hi>Paul</hi> inſtructs the Churches of <hi>Galathia, Gal.</hi> 1.8. To meaſure their Faith by that Goſpel only, which from the Beginning they had receiv'd, and was by himſelf preached unto them.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir what is the laſt Article?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>This true Catholick Faith, without which, no man can be ſaved, which at this preſent, I freely profeſs, and truly hold; I do
+<pb n="15" facs="tcp:95190:10"/>promiſe, vow, and ſwear, moſt conſtantly, God aſſiſting, to retain and confeſs entire and inviolate, to the very laſt gaſpe of Life, and to pro<g ref="char:EOLhyphen"/>cure as much as ſhall lie in me, that the ſame be held, taught, and preached by all my Inferiours, and by thoſe that are committed to my care and charge; So God help me, and thoſe holy Goſpels of God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>By this I perceive what is the Catholick Faith of the Church of</hi> Rome, <hi>in the new</hi> Trent <hi>Creed or Goſpel, made</hi> 1500 <hi>years and more after the Death of Chriſt, and impoſed by the Pope upon his Subjects, to be profeſſed, vowed, ſworn and maintained under Pain of eternal Damna<g ref="char:EOLhyphen"/>tion. But can no man be ſaved without believing in this Creed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>So ſays the Pope: he curſes all that will not receive it. But St. <hi>Paul</hi> declares him accurſed, <hi>Gal.</hi> 1.8. who preaches any other Goſpel, than that which he had preach'd unto them. The Curſe therefore will fall upon the Pope and his Prieſts, except they can find a Priviledge greater than given to Apoſtles or Angels, to make new Creeds, and to preach new Goſpels at Pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do they baptize into this Creed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. All the Chriſtian World have ever been baptized in<g ref="char:EOLhyphen"/>to the Faith of the old Creed; never any that I heard of into the Faith of this new Creed. If this were as needful to Salvation as the old, they do men Wrong in Baptizing them, but into one half of the Chriſtian Faith; therefore we are reſolved to adhere to that Faith, which hath been profeſſed always, every where, and by all perſons; and particularly, both by them and us at our Baptiſms, without Ad<g ref="char:EOLhyphen"/>dition or Diminution: This was their Faith formerly, and is ours ſtill. The Reſult of all is this, As the Sum of the Primitive Creed and Goſpel is to believe in God, ſo the ſum of the <hi>Romiſh</hi> Creed is to believe in the Pope; and as the rule of the Primitive Faith is the Word of God, the holy Scriptures, ſo the Rule of the <hi>Romiſh</hi> Faith is the word of man, papal Definitions; and as the end of the Primi<g ref="char:EOLhyphen"/>tive Faith is the charity of GOd, to keep his commandments, ſo the end of the <hi>Romiſh</hi> Faith is Slavery to man, to uphold his Tyranny, and maintain his Supremacy. Remember therefore, what the Lord Chriſt ſays to his Diſciples, <hi>Matt.</hi> 7.15. Beware of falſe Prophets which come to you in Sheeps clothing, but inwardly, they are rave<g ref="char:EOLhyphen"/>ning Wolves; ye ſhall know them by their Fruits, <hi>Math.</hi> 7.15. And that of the Apoſtle, I know this, that after my departing ſhall grievous Wolves enter in among you, not ſparing the Flock. Alſo of your own ſelves ſhall men ariſe, ſpeaking perverſe things to draw
+<pb n="16" facs="tcp:95190:11"/>away Diſciples after them. Therefore watch, and remember that by the ſpace of three years, I ceaſed not to warn every one Night and Day with Tears. <hi>Act.</hi> 20.29, 30, 31.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>The Lord write your Words in my Heart, and give me Grace to avoid theſe ravening Wolves, that lie lurking in every Corner. But, I pray Sir, having ſo well ſtabliſhed, ſtrengthned, and ſettled me in the Faith, be pleaſed alſo to open to me the Rule of Life;</hi> viz. <hi>the moral Law, that I may not be inſnared by the corrupt Gloſſes which I hear the Papiſts have put upon the holy Law of God. And firſt, I pray, Sir, what do they teach of the Law in general?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Law, as it is expounded by Chriſt, <hi>Mat.</hi> 5. they ſay, is a new Law, far more perfect than the Law of <hi>Moſes:</hi> they ſay alſo, that Chriſt delivereth new Divine Counſel to his Diſciples, which was not given in the Law, or in the Prophets; though Chriſt ſays, Think not that I am come to deſtroy the Law or the Prophets: I am not come to deſtroy, but to fullfil, <hi>Mat.</hi> 5.17. and <hi>Mat.</hi> 7.12. There<g ref="char:EOLhyphen"/>fore, all things whatſoever ye would that men ſhould do to you, do you even ſo to them, for this is the Law and the Prophets.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What elſe do they teach concerning the Law?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They teach that 'tis poſſible for a man to keep the whole Law of God; and yet <hi>Solomon</hi> ſays, Who can ſay I have made my Heart clean, I am pure from my Sin? <hi>Prov.</hi> 20.9. They have alſo a diſtinction of Venial and Mortal Sins: ſome Sins, they ſay, are veni<g ref="char:EOLhyphen"/>al in their own Nature, which if they were all together, could not equal one mortal Sin, nor deſtroy Charity. And yet Jeſus Chriſt ſays, that every idle word that men ſhall ſpeak, they ſhall give account thereof in the day of Judgment, <hi>Mat.</hi> 12.36.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir, what Sins do they call Venial Sins?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Lying, ordinary ſwearing, by St. <hi>Mary,</hi> or by the Maſs, and ſimple Fornication and ſuch like; and yet <hi>St. John</hi> ſays, ſpeaking of Heaven, There ſhall in no wiſe enter into it, any thing that defi<g ref="char:EOLhyphen"/>leth, neither whatſoever worketh Abomination, or maketh a Lie, <hi>Revel.</hi> 21.27.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>I have heard indeed, that they are very looſe in their Mo<g ref="char:EOLhyphen"/>rals, and I perceive this diſtinction of venial and mortal Sins, was invented for this Purpoſe: But I pray Sir, what do we Proteſtants hold concerning the Law?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>We hold that the moral Law commands the perfection of Godlineſs and Righteouſneſs, and directs us in our duties to God and Man. Ye ſhall obſerve to do therefore, as the Lord your God
+<pb n="17" facs="tcp:95190:11"/>hath commanded you: you ſhall not turn aſide, to the right hand or to the left, <hi>Deut.</hi> 5.32.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir, proceed now to the Commandments in particular, as they were delivered by</hi> Moſes, <hi>and ſhew me firſt, what we Proteſtants teach, and then what the Church of</hi> Rome <hi>teaches concerning them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>I ſhall do it readily. The firſt Commandment is, Thou ſhalt have no other Gods before me: and our Proteſtant Doctors teach, that this <hi>Jehovah,</hi> one in Subſtance, and three in Perſons, the Creator, and Governour of all things, and the Redeemer of his Peo<g ref="char:EOLhyphen"/>ple, is to be entertained for the only true God, in all the powers of the Soul; and ſo Chriſt opens it, <hi>Matt.</hi> 22.37. Thou ſhalt love the Lord thy God, with all thy Heart, and with all thy Soul, and with all thy Mind.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Doth not the Church of</hi> Rome <hi>expound it ſo?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. The Church of <hi>Rome</hi> teaches to make more Gods than one: they pray to the Saints, whereby they make them Gods in giving this Divine Property unto them, to know the Heart. They call the Virgin <hi>Mary,</hi> Queen of Heaven, and ſay ſhe is a Goddeſs, and pray to her to command her Son to help them. Nay, they make the Pope a God, they call him, Our Lord God the Pope, and they are more careful to obey his commands, than the commands of God.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the meaning of the ſecond Command? Thou ſhalt not make to thy ſelf any graven Image, nor any Likeneſs of things in Hea<g ref="char:EOLhyphen"/>ven,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The meaning of this Commandment is, to bind all men to that ſolemn Form of religious Worſhip, which God himſelf in his Word preſcribeth, that we ſerve him not according to our Fancies, but according to his Will. What thing ſoever I command you, ob<g ref="char:EOLhyphen"/>ſerve to do it, thou ſhalt not add thereto, nor diminiſh from it, <hi>Deut.</hi> 12.32.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts expound this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They leave it quite out of their Catechiſms, becauſe 'tis ſo plain againſt their Image-worſhip, and they divide the tenth into two, to make up the number.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What Worſhip do they give to Images?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The ſame Worſhip they give to thoſe whoſe Image it is; as they worſhip the holy Trinity and Chriſt, ſo they worſhip the Images of the Trinity, and of Chriſt.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:95190:12"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Did not the Heathens thus worſhip their Images?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The Papiſts ſay they worſhip their Images with a relative Worſhip, and ſo did the Heathens; and indeed, an Image cannot be worſhipped with any other Worſhip. Nor does the com<g ref="char:EOLhyphen"/>mandment forbid any other Worſhip, for it is a contradiction to ſay, this is the Image of God, and yet this is God; and therefore it muſt be alſo a contradiction, to worſhip an Image with any other Worſhip, for then it muſt be, that the Image of a thing is that thing whoſe Image it is. But they go yet a little farther, the Image of the Croſs they worſhip with divine Honour, and though this divine Worſhip is but relative, yet the Croſs it ſelf is worſhipped termina<g ref="char:EOLhyphen"/>tively with divine Adoration: now if this be not Idolatry, I can ne<g ref="char:EOLhyphen"/>ver be told what is the notion of the word. If there can be Idolatry in the Worſhip of an Image, it is certain, that a relative divine Wor<g ref="char:EOLhyphen"/>ſhip is this Idolatry; for no man that worſhips an Image can make the Image the laſt Object: either therefore the Heathens were not Idolaters in the worſhiping of an Image, or elſe theſe men are.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the ſum of the third Command? Thou ſhalt not take the name of the Lord,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Sum of this Command is, That we impeach not, but by all means, advance the glorious name of God in all things, whereby he maketh himſelf known to men: Give unto the Lord the Glory due unto his Name, worſhip the Lord in the beauty of Holi<g ref="char:EOLhyphen"/>neſs, <hi>Pſal.</hi> 29.2.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They teach, that 'tis lawful to ſwear by the Saints, and in their common talk they cry out, O Lord, O Jeſu! They uſe the Word Jeſu thirty times together, and this they take for a peice of Devotion. And the Pope diſpenſeth with all Oaths at his pleaſure, and teaches, that Faith is not to be kept with Hereticks.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the meaning of the fourth Command, Remember to keep holy the Sabbath day?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>It challengeth at the hand of every man one day of ſeven in every Week, and requireth all Perſons to ſeparate themſelves from their ordinary Labour, and all other Exerciſes, that they may attend to the worſhip of God only.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts expound this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They make the Popes Holy dayes equal with the Lords Sabbath, and they are more zealous for the Obſervation of them, for
+<pb n="19" facs="tcp:95190:12"/>they will be ſure to keep them, but the Sabbath they uſually ſpend in playing at Cards, Dice, and Tables.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the meaning of the fifth Command? Honour thy Fa<g ref="char:EOLhyphen"/>ther and thy Mother,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>That the Quality of mens Perſons and Places, in what E<g ref="char:EOLhyphen"/>ſtate ſoever, Natural, Civil, or Eccleſiaſtical, be truly acknowledged and reſpected; for it requires the Performance of all ſuch Duties as one man oweth unto another. Render to all their dues, Tribute to whom Tribute is due; Cuſtom, to whom Cuſtom; Fear, to whom Fear; Honour, to whom honour, <hi>Rom.</hi> 13.7.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Commandment?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They diſannul it, in giving freedom and immunity to to their Clergy from ſubjection to Civil Authority, and in diſpen<g ref="char:EOLhyphen"/>ſing with Subjects for their Loyalty and Allegiance to their Lawful Princes, and with Children and Servants from yielding due help, ſervice, and obedience to their Parents and Maſters.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the ſumme and meaning of the ſixth Commandment; Thou ſhalt not murder?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>That the Life and Perſon of man be by man not impeach<g ref="char:EOLhyphen"/>ed but preſerved. Surely, the Bloud of your Lives will I require. At the hand of every mans Brother will I require the Life of man, <hi>Gen.</hi> 9.5.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Commandment?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They have Houſes of Refuge, which they call Sanctua<g ref="char:EOLhyphen"/>ries, wherein Murderers live in Safety. They hold it meritorious to poyſon or ſtab any man for the advancement of the Catholick Cauſe, and 'tis a Poſition with them, though a damnable one, That Prin<g ref="char:EOLhyphen"/>ces, excommunicate by the Pope, may be murdered by their Sub<g ref="char:EOLhyphen"/>jects.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the meaning of the ſeventh Commandment, Thou ſhalt not commit Adultery?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>That all Uncleanneſs and Impurity be avoided, and Cha<g ref="char:EOLhyphen"/>ſtity by all means preſerved. Having theſe Promiſes, let us cleanſe our ſelves from all filthineſs of the Fleſh and Spirit, perfecting holi<g ref="char:EOLhyphen"/>neſs in the Fear of God, 2 <hi>Cor.</hi> 7.1.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They give Divorces for Marriages in the fourth degree, and Diſpenſations to marry in the ſecond. Nay, which is moſt abo<g ref="char:EOLhyphen"/>minable, the tolerate Stewes, publick Whore-houſes, even in <hi>Rome</hi>
+                  <pb n="20" facs="tcp:95190:13"/>it ſelf, where every Whore pays a <hi>Julian</hi> penny to his Holineſs week<g ref="char:EOLhyphen"/>ly, which amounts to, yearly, as ſome think, 50000 <hi>l.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What doth the eighth Commandment contain, Thou ſhalt not ſteal?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>It contains a charge of our own and our Neighbours Goods, that we ſhew Love and faithfulneſs therein, and not only not impeach or hinder, but by all means preſerve and further the the ſame. Let him that ſtole, ſteal no more, but rather let him la<g ref="char:EOLhyphen"/>bour, working with his hands the thing that is good, that he may have to give him that needeth, <hi>Eph.</hi> 4.28.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Pope makes ſale of all things, of Heaven, Hell, and the Earth, of Pardons for Sin, and delivering men from Purgatory; which is flat Robbery, and moſt groſs Deceit and Cozenage. By the fulneſs of his Power, the Pope can diſpenſe in all things, where there is cauſe, and in many things, where there is no cauſe, under a greater price: ſo ſaith the Tax of the Datary, or the Book of Rates, where the price of the Diſpenſations are ſet down to a farthing, for the baſeſt and vileſt Sins that can be imagined.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the ſcope and end of the ninth Command, Thou ſhalt not bear falſe Witneſs,</hi> &amp;c?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The main ſcope and end at which God aimeth, is the con<g ref="char:EOLhyphen"/>ſervation of Truth amongſt men, and of our own and our Neigh<g ref="char:EOLhyphen"/>bours Fame and good Name. Put away lying, ſpeak every man Truth with his Neighbour, for we are Members one of another, <hi>Eph.</hi> 4.25.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts keep this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They allow Equivocation, and mental Evaſions, and teach that 'tis lawful to lye, or deceive the Queſtion of the Magiſtrate, to conceal their Names, and to tell a falſe one, and to elude all Exami<g ref="char:EOLhyphen"/>nations. Nay, they hold it not onely lawful, but meritorious, to dye with Lyes in their Mouths, if it be for the good of the Pope's Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the ſumm and drift of the tenth Commandment, Thou ſhalt not covet,</hi> &amp;c?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Gods People muſt not harbour in their hearts any thoughts or motions againſt their Neighbours, though the Will conſent not: but content themſelves with that Eſtate that God allots them: So St. <hi>Paul</hi> expounds it, I had not known Luſt, except the Law had ſaid, Thou ſhalt not covet, <hi>Rom.</hi> 7.7.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:95190:13"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do the Papiſts expound this Command?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They hold Concupiſcence before conſent to be no ſin. If it be any, they ſay 'tis leſs than any venial ſin, which deſerveth not damnation. Whereupon they have forged a <hi>Limbus</hi> for ſuch In<g ref="char:EOLhyphen"/>fants as dye in Original Sin. Thus they expound and keep the Com<g ref="char:EOLhyphen"/>mandments.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>If this be their way of keeping the Commandments of God, the Lord deliver me from them and their wayes, and incline my heart to keep his Commandments according to the Expoſition of the Proteſtant Doctors. But are there no more Commandments but theſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, Child. He declared unto you his Covenant, which he commanded you to perform, even ten Commandments, and he wrote them upon two Tables of ſtone, <hi>Deut.</hi> 4.13.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Have the Papiſts any more Commandments?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes, Child. They have ſix Commands more, which they call the ſix Commandments of the Church, which are, 1. To keep all Sundays, and ſuch Holy-days as are appointed, by hearing Maſs, and forbearing to work. 2. To keep Abſtinence and Faſting-days appointed; that is, to faſt <hi>Lent,</hi> ſuch Vigils as are commanded, <hi>Em<g ref="char:EOLhyphen"/>ber-days, Fridays,</hi> and <hi>Saturdays.</hi> 3. To confeſs our Sins once a Year to a Prieſt. 4. To communicate once a year, and that about the time of <hi>Eaſter.</hi> 5. To pay Tiths. 6. Not to ſolemnize Marriage at forbidden times: and to theſe they ſay as well as unto Gods, is promiſed the Reward of eternal Life.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Sir you have ſhewed me the true Doctrine of Faith, which I muſt profeſs, and in ſome meaſure opened and expounded the ten Com<g ref="char:EOLhyphen"/>mandements, the Rule of Life: I pray Sir proceed, and inſtruct me how to perform the Duty of Prayer: And firſt, pray tell me, Have we any Rule for Prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. The Lord Chriſt hath given us a full one. <hi>When you pray, ſay, Our Father,</hi> &amp;c. <hi>Luc.</hi> 11.2. Wherein there is a Preface, or Entrance into Prayer, in the firſt words, <hi>Our Father which art in Hea<g ref="char:EOLhyphen"/>ven.</hi> A Body of Petitions, containing the Matter of Prayer, in the words following. A Concluſion for confirmation and cloſe of Pray<g ref="char:EOLhyphen"/>er, in the laſt words, <hi>For thine is the Kingdom,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What doth the Preface put us in mind of?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Of him to whom we pray, teaching us, that God, and God onely, is to be prayed unto. <hi>Call upon me in the day of trouble, I will deliver thee, and thou ſhalt glorifie me,</hi> Pſal. 50.15.</p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:95190:14"/>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How many Petitions be there in the Lord's Prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Six, equally divided as it were into two Tables; where<g ref="char:EOLhyphen"/>of, three do concern God, as doth the firſt Table of the Law; three do concern our ſelves and our Neighbours, as doth the ſecond Table: for in the three firſt we make Requeſts for thoſe things that concern God's Majeſty, whoſe Glory and Service we are to prefer before our own Good: In the three latter, for thoſe things that concern the Neceſſity of man and our own Welfare, which we muſt muſt refer to the former.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What is the Concluſion of this Prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>For thine is the Kingdom, <hi>&amp;c.</hi> The ſum whereof is, that we ground our Aſſurance of obtaining our Prayers in God, from whom all things we ask do come, and to whom therefore, all Glory muſt return.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>You have ſhewed me the Proteſtant Doctrine of Prayer, do not the Papiſts teach the ſame?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, Child. They teach that Prayers themſelves <hi>ex opere operato,</hi> or by the natural Work it ſelf, do prevail; for it is not, ſay they, eſſential to Prayer, for a man to think particularly of what he ſays: nay, 'tis not neceſſary to the Eſſence of Prayer, that he who prays ſhould think of the ſpeaking it ſelf; ſo that Prayers in the mouth of a Papiſt, are like the words of a Charmer, they prevail, even when they are not underſtood; ſo that with them, Attention to, or Devotion in Prayer is not neceſſary. If the outward work be done, the Church in ſatisfied, and yet this the Lord Chriſt ſharply reproves in the <hi>Jews;</hi> This People draweth nigh unto me with their Mouths, and honoureth me with their Lips, but their Heart is far from me. But in vain do they worſhip me, <hi>&amp;c. Mat.</hi> 15.8.9. So that between the Proteſtants and the Papiſts, the difference herein is this, They pray with their Lips, we with the Heart; we pray with the Underſtanding, they with the Voice; we pray, and they ſay Pray<g ref="char:EOLhyphen"/>ers.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do they teach any other Doctrines concerning Prayers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They teach the People to pray with Beads, and they have Books to direct them; the Pſalter of our Lady is 150 Ave-ma<g ref="char:EOLhyphen"/>ries; and at the end of every tenth, they drop in the Lord's Prayer; and this with the Creed at the end of the fifty, makes a perfect Ro<g ref="char:EOLhyphen"/>ſary. They have alſo, the Pſalter of <hi>Jeſus,</hi> in which are fifteen ſhort Ejaculations; as, Have Mercy on me, ſtrengthen me, help me, com<g ref="char:EOLhyphen"/>fort
+<pb n="23" facs="tcp:95190:14"/>me, <hi>&amp;c.</hi> And with every one of theſe, the name of Jeſus is to be ſaid thirty times, that is in all four hundred and fifty times. Now this we think the Lord Chriſt plainly forbids, <hi>Math.</hi> 5.7, 8. When you pray, uſe not vain Repetitions, as the Heathens do; for they think that they ſhall be heard by their much ſpeaking, be not ye therefore like unto them. The Heathens thought to be heard for their much ſpeaking, and if the people of the <hi>Roman</hi> Church do not think ſo, there is no reaſon why they ſhould do ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is there any thing elſe they teach concerning Prayers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They teach the People to pray in <hi>Latin,</hi> though they underſtand it not, and tell them, 'tis ſufficient that God underſtands it: and all their publick Prayers are in <hi>Latine,</hi> of which the People underſtand not one word; contrary to Scripture, and the practice of the Primitive Church. If I pray in an unknown Tongue, my Spi<g ref="char:EOLhyphen"/>rit prayeth, but my underſtanding is unfruitful: What is it then? I will pray with the Spirit, and I will pray with Underſtanding alſo: elſe, when thou ſhalt bleſs with the Spirit, how ſhall he that occupieth the room of the unlearned, ſay <hi>Amen</hi> at thy giving of Thanks, ſeeing he underſtandeth not what thou ſayeſt, 1 <hi>Cor.</hi> 14, 15, 16.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But what do they do at Maſs, if they do not underſtand the Prayers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Truly Child, I know not, I was never there to ſee: but I have been told, that ſome talk one with another, others look about them; but they that would ſeem to be devout, kneel down, and ſay their Ave-maries according to their Beads. And this is agreeable to their Doctrine, for the Precept of hearing Maſs is not to intend the words, but to be preſent at the Sacrifice, though the words be not ſo much as heard: and their Doctors ſay, 'tis enough if their Bodies be pre<g ref="char:EOLhyphen"/>ſent at their greateſt Solemnities, though they hear nothing that is ſpoken, and underſtand as little.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>This is wonderful ſtrange to me, that Chriſtians ſhould be taught to pray, as Parots are to ſpeak, ſuch Prayers certainly are not for God who ſearches the Heart: To whom do they uſually pray, and direct ſuch dead Prayers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They pray to dead Men and Women, who are, or whom they ſuppoſe to be beatified; and thoſe they invocate as Preſervers, Helpers, Guardians, Deliverers in their Neceſſity, and they expreſsly call them their Refuge, their Guard and Defence, their Life and
+<pb n="24" facs="tcp:95190:15"/>Health; which is ſo formidable a Devotion, that we for them, and for our ſelves too, if we ſhould imitate them, are to dread the words of the Prophet, <hi>Jer.</hi> 17.5. Curſed be the man that truſteth in man, and maketh Fleſh his Arm, and whoſe Heart departeth from the Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But to whom do they chiefly pray?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>To the Virgin <hi>Mary,</hi> to their Angel-guardian, and to the Saints, upon ſeveral Occaſions; and yet the Lord Chriſt ſays, when you pray, ſay our Father, <hi>Luc.</hi> 11.2.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How do they pray to the Virgin</hi> Mary?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They have many Prayers and Littanies to the Virgin <hi>Mary,</hi> and there is a Pſalter of our <hi>Lady,</hi> of great account in the Church of <hi>Rome;</hi> which is nothing but the Pſalms of <hi>David,</hi> in which the name of Lord is left out, and that of <hi>Lady</hi> put in; ſo that whatever <hi>David</hi> ſaid of God and Chriſt, the ſame Prayers and the ſame Praiſes they ſay of the Virgin <hi>Mary:</hi> and whether all that can be ſaid without intollerable Blaſphemy, I ſuppoſe needs little Diſpu<g ref="char:EOLhyphen"/>tation.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But I pray Sir what Prayers do they preſent to the Virgin</hi> Mary?</p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They have many Prayers to the Virgin, ſuch as theſe; O generous <hi>Mary,</hi> beautious above all, obtain Pardon for us, apply Grace unto us, prepare Glory for us: Hail thou Roſe, thou Virgin <hi>Mary,</hi> &amp;c. grant to us to uſe true Wiſdom, and with the Elect to enjoy Grace, that we may with Melody praiſe thee, and do thou drive our Sins away: O Virgin <hi>Mary,</hi> give us Joys. Theſe and di<g ref="char:EOLhyphen"/>vers others like theſe, are in the Anthem of our Lady; but the or<g ref="char:EOLhyphen"/>dinary Prayer is this, Hail <hi>Mary</hi> full of Grace, our Lord is with thee, bleſſed art thou above all Women, and bleſſed is the Fruit of thy Womb <hi>Jeſus.</hi> Holy <hi>Mary,</hi> Mother of God, pray for us Sinners now, and at the hour of our Death, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What Reaſons do they alledge for this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Reaſons they give are more abſurd than the Prayers themſelves. They ſay that Chriſt is not our Advocate alone, but a Judge; and ſince the Juſt are ſcarce ſecure, how ſhall a Sinner go to him as to an Advocate? Therefore God hath provided us of an Advocateſs, who is gentle and ſweet, in whom nothing that is ſharp is to be found. And to thoſe words of St. <hi>Paul, Come boldly to the Throne of Grace,</hi> they ſay, that <hi>Mary</hi> is the Throne of Grace;
+<pb n="25" facs="tcp:95190:15"/>in whom he reſted: to her, therefore let us come with Boldneſs, that we may obtain Mercy, and find grace in time of need. They ſay al<g ref="char:EOLhyphen"/>ſo, that <hi>Mary</hi> is call'd, full of Grace, becauſe ſhe is the Means and Cauſe of Grace, by transfuſing Grace to Mankind: nay, they go higher yet, Pope <hi>Leo</hi> the Tenth calls her a Goddeſs, and the <hi>Jeſuits</hi> ſay, that ſhe is the Companion or Partner of the divine Majeſty and Power; to her God long ſince gave the Principallity of all heavenly and mortal things, ſo far as the Guardianſhip of men requires; ſhe rules at her Will the Earth and Seas, Heaven and Nature; and ſhe conſenting, he gives divine Treaſures and coeleſtial Gifts. Nay in ſome of their Maſs-books they call the Virgin <hi>Mary</hi> the way to Life, the Governeſs of all the World, the Reconciler of Sinners with God, the Fountain of Remiſſion of Sins, Light of Light, and at laſt ſalute her with an <hi>Ave univerſae Trinitatis Mater,</hi> Hail thou Mo<g ref="char:EOLhyphen"/>ther of the whole Trinity.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I beſeech you no more of theſe Blaſphemies, I think no Chri<g ref="char:EOLhyphen"/>ſtian Ear can hear them with Patience; I am ſure the Lord Chriſt gives no ſuch Titles to the Virgin, but rather reproves her, Woman what have I to do with thee, mine Hour is not come,</hi> John. 2.4. <hi>And calls his Diſciples his Mother and his Brethren. Who is my Mother, and who are my Brethren? And he ſtretched forth his hand towards his Diſ<g ref="char:EOLhyphen"/>ciples, and ſaid, Behold my Mother and my Brethren; for whoſoever ſhall do the Will of my Father, which is in Heaven, the ſame is my Brother, and Siſter, and Mother,</hi> Matt. 12.49, 50. <hi>But I pray proceed, do they pray to the Angels alſo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. To their Angel-guardian they uſe this Prayer, Bleſſed Angel! To whoſe Care and Cuſtody, our loving Creator hath com<g ref="char:EOLhyphen"/>mitted me, defend me this day, I beſeech you, from all Dangers, and direct me in the way I ought to walk.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Do they pray alſo to the Saints?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. They have a patron Saint, whoſe name they bear, to whom they pray thus; Glorious St. <hi>N.</hi> whom the divine Provi<g ref="char:EOLhyphen"/>dence hath allotted for my Pattern upon Earth, and my Patron in Heaven; obtain I beſeech you, for me your poor Pupil, ſo to imi<g ref="char:EOLhyphen"/>tate here your Virtues, that I may hereafter be made Partaker of your Glory. Nay, they have a Saint to pray to for every Infirmi<g ref="char:EOLhyphen"/>ty and Diſeaſe; to St. <hi>Sebaſtian,</hi> and St. <hi>Roch,</hi> to cure the Plague; to St. <hi>Petronilla</hi> for the Fever; to St. <hi>Bennet</hi> to cure all Poyſon; to St. <hi>Apollonia</hi> for the Tooth-ach; to St. <hi>Otilia</hi> for ſore Eyes; to
+<pb n="26" facs="tcp:95190:16"/>St. <hi>Apollinaris</hi> for the French-Pox; to St. <hi>Liberius</hi> for the Stone; and to St. <hi>Felicitas</hi> for Barrenneſs in Women: they pray alſo to St. <hi>Gall</hi> for the Health and Fecundity of their Geeſe; to St. <hi>Wendeline</hi> for their Sheep; to St. <hi>Anthony</hi> for their Hogs, to St. <hi>Pelogius</hi> for their Oxen. They have alſo their peculiar Saints for every Trade, the Phyſitians are patronized by <hi>Coſmus</hi> and <hi>Damian;</hi> the Painters by St. <hi>Luke;</hi> the Potters by <hi>Goarus,</hi> the Shoo-makers by <hi>Criſpin;</hi> the Hunts men by <hi>Euſtachius;</hi> the Harlots, for that alſo is a Trade at <hi>Rome,</hi> by St. <hi>Afra</hi> and <hi>Mary Magdalen.</hi> They are ſo given up to theſe Deluſions, that every Nation hath a peculiar Guardian-Saint, and every City, every Family, and almoſt every Houſe, and every devouter perſon chooſes his own patron-Saint, whoſe Altars they more devoutly frequent, whoſe Image they more religiouſly worſhip, to whoſe Relicks they more readily go in Pilgrimage, and whoſe Feſtival they more ſolemnly obſerve. Of ſuch as theſe the Pro<g ref="char:EOLhyphen"/>phet complains, <hi>Jer.</hi> 2.13. My People have committed two Evils, they have forſaken me the Fountain of living Waters, and hewed them out Ciſterns, broken Ciſterns that can hold no water.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>This ſeems to me to be more like Heatheniſm than Chriſtiani<g ref="char:EOLhyphen"/>ty; and certainly, people cannot be good Chriſtians in thoſe Devotions: but, I pray Sir, Do they not uſe the Lords Prayer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes, after their way. They ſay ten <hi>Ave Maries</hi> for one <hi>Pater noſter,</hi> and leave out the Concluſion, <hi>For thine is the Kingdom,</hi> &amp;c. though it be expreſly mentioned by St. <hi>Matthew,</hi> 6.13.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>What do the Proteſtants ſay to this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>We ſay of this, as we do of their robbing the People of the Cup in the Sacrament, that 'tis Sacrilege. They ſteal away this Thankſgiving from Prayer, as if it were no part of it. So that it is no marvel, that in Popery, all the whole Body of their Doctrine is of the Salvation of men, and that at a ſtrange rate too, God's Glory being buried in a deep ſilence.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>You have ſhewed me the Chriſtian Faith, and the</hi> Roman <hi>Faith, the Popiſh way of keeping the Commandements, and the Proteſtant way; and after what manner the Church of</hi> Rome <hi>teaches her Diſci<g ref="char:EOLhyphen"/>ples to pray, and how we Proteſtants pray: I ſhould now intreat you to proceed to the Sacraments, but you have ſpoken ſo much of them already in the</hi> Trent <hi>Creed, that I know not what to ask you about them: Is there any thing more fit for me to know?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="27" facs="tcp:95190:16"/>
+               <speaker>Father.</speaker>
+               <p>Yes. You may remember, that 'tis one Article of the <hi>Trent</hi> Creed, that there are ſeven Sacraments: Now we Proteſtants own but two; and I will ſhew you what Reaſons we have for it. Firſt, When the number of Sacraments were moſt neceſſary, as un<g ref="char:EOLhyphen"/>der the Law, they had but two, which were types of ours, there<g ref="char:EOLhyphen"/>fore we need require no more. Brethren, I would not that you ſhould be ignorant, how that all our Fathers were under the cloud, and all paſſed through the Sea, and were all baptized unto <hi>Moſes,</hi> in the Cloud, and in the Sea, and did all eat the ſame Spiritual meat, and did all drink the ſame Spiritual drink; for they drank of that Spiritual Rock that followed them, and that Rock was Chriſt, 1 <hi>Cor.</hi> 10.1, 2, 3, 4. Secondly, Having meat, drink, and Cloaths, we ought therewith to be content. Now, by the Sa<g ref="char:EOLhyphen"/>crament of our Enterance, our Spiritual cloathing is ſealed unto us. <hi>As many of you as have been baptized into Chriſt, have put on Chriſt,</hi> Gal. 3.27. And by that of our growth, is ſealed our Feeding. <hi>The Cup of the Bleſſing which we bleſs, is it not the Communion of the Bloud of Chriſt? the Bread which we break, is it not the Communion of the Body of Chriſt?</hi> 1 Cor. 10.16. Thirdly, Theſe two Seals aſſure us of all Gods Graces; as of our Regeneration, Entrance and In<g ref="char:EOLhyphen"/>grafting into Chriſt, ſo of our growth and continuance in him: and therefore we need no more. For by one Spirit we are all bap<g ref="char:EOLhyphen"/>tized into one Body, whether we be <hi>Jews</hi> or <hi>Gentiles,</hi> whether we be bond or free, and have been all made to drink into one Spirit, 1 <hi>Cor.</hi> 12.13. There be as many Sacraments, as there be things that need to be betokened to us, about our Juſtification: Therefore thoſe five other Sacraments, of Confirmation, Penance, Matrimony, Orders, and Extream Unction, added by the Papiſts, are ſuperflu<g ref="char:EOLhyphen"/>ous, becauſe ſome of them have no Warrant at all out of the Word of God, and God hath not promiſed a Bleſſing upon the uſing of them. Others of them, though they are agreeable to the Word, yet are without the nature and number of Sacraments.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Since the Church of</hi> Rome <hi>takes liberty to make new Creeds, new Commandments, and new Sacraments: hath ſhe invented nothing elſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. She hath invented little pretty things, like Sacra<g ref="char:EOLhyphen"/>ments, of her own, without a Divine Warrant; and to theſe Sa<g ref="char:EOLhyphen"/>cramentals, as ſhe calls them, ſhe imputes Spiritual Effects; and promiſes not only Temporal Bleſſings, Immunities, and Benedicti<g ref="char:EOLhyphen"/>ons, but the collation or increaſe of Spiritual Graces, and Remiſſion
+<pb n="28" facs="tcp:95190:17"/>of Venial Sins, and mitigation of pains due to Mortal ſins, to them who ſhall uſe them.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir, what be thoſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Of this nature are Holy Water, the Paſchal Wax, Oyle, Palm boughs, holy Bread, holy Hats, <hi>Agnus Dei's,</hi> in <hi>Engliſh,</hi> Lambs of God, holy Medals, holy Beads, Swords and Daggers ſanctified on the Altar, Holy Bells and Roſes hallowed upon the Sunday, cal<g ref="char:EOLhyphen"/>led <hi>Laetare Jeruſalem,</hi> ſuch as Pope <hi>Pius</hi> the ſecond ſent to <hi>James</hi> the King of <hi>Scotland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray what is their Doctrine concerning theſe things?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Their Doctrine is, that the Bloud of Chriſt is by theſe applied unto us; that they do not only ſignifie, but produce Spi<g ref="char:EOLhyphen"/>ritual Effects; that they blot out Venial Sins, that they drive away Devils, that they cure Diſeaſes; and that though theſe things do not operate infallibly, as do the Sacraments, and that God hath made no expreſs Covenant concerning them; yet by the Devotion of them that uſe them, and the Prayers of the Church, they do prevail.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir what ground have they for thoſe things?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The Prieſts and Jeſuits abuſe the People with <hi>Romantick</hi> Stories out of their Legends, making them believe, that one cured a mans broken Thigh with holy Water, that another cured a mad<g ref="char:EOLhyphen"/>man with the ſame Medicine; that ſome have cured ſick perſons with holy Bread and Oyl, which indeed is the moſt likely of them all, as being good Food, and good Medicine. And although not ſo much as a Chicken is now a days cured of the Pip, by holy Water, yet upon all Occaſions they uſe it, and the common people throw it upon Childrens Cradles, and ſick Cows horns, and upon them that they think bewitched or blaſted, and if they recover by any means, it is imputed to the Holy-water; and ſo the Simplicity of Chriſtian Religion, the glory of our Dependance upon God, and the Holineſs and myſtery of Sacraments are diſordered and diſhonour'd. Thus the <hi>Iſraelites</hi> did when they fell to Idolatry, they joyned themſelves to <hi>Baal Peor,</hi> and eat the Sacrifices of the dead; thus they provoked him to anger with their Inventions, <hi>Pſal.</hi> 106.28, 29. and v. 39. Thus were they defiled with their own Works, and went a whoring with their own Inventions.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Is there any thing elſe that they teach of the Sacraments, to be obſerved?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Yes. There is yet one great Inſtance more of their Irreligion, they are taught to rely upon the Sacraments with ſo little of moral
+<pb n="29" facs="tcp:95190:17"/>and vertuous Diſpoſitions, that the Efficacy of one is made to leſſen the Neceſſity of the other, and the Sacraments are taught to be ſo effectual by an inherent Vertue, that they are not ſo much made the Inſtruments of Vertue, as the Supplement; not ſo much to encreaſe, as to make amends for the want of Grace, contrary to that of the A<g ref="char:EOLhyphen"/>poſtle, Whoſoever ſhall eat this Bread, and drink this Cup of the Lord unworthily, ſhall be guilty of the Body and Blood of the Lord. But let a man examine himſelf, and ſo let him eat of that Bread, and drink of that Cup, 1 <hi>Cor.</hi> 11.27, 28.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>By this I ſuppoſe they do not think Repentance is needful, to fit and pre<g ref="char:EOLhyphen"/>pare us for the Lords-table. I pray Sir what do they teach concerning that Duty?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>They are ſo looſe in the Doctrine of Repentance, that you cannot imagine it. I ſhall therefore ſhew you, what we and they teach concerning that Duty, and conclude this Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I pray Sir, firſt ſhew me then what we teach concerning Repentance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Our Proteſtant Doctors teach, that Repentance is an inward and true ſorrow for Sin, eſpecially, that we have offended ſo gracious a God, and ſo loving a Father, together with a ſettled purpoſe of Heart, and a careful endeavour to leave all our Sins, and to live a Chriſtian Life accor<g ref="char:EOLhyphen"/>ding to all God's Commandments; <hi>The Sacrifices of God are a broken Spi<g ref="char:EOLhyphen"/>rit, a broken and a contrite Heart, O God thou wilt not deſpiſe,</hi> Pſ. 51.17.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>How is this Grace wrought in us?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>'Tis wrought in us partly by the threatning of the Law, and the fear of God's Judgments; but eſpecially, increaſed by feeling the Fruit of Chriſt's Death, whereby we have power to hate Sin, and to leave it.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Wherein doth Repentance properly conſiſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>In a through changing of our purpoſe and deſires from the Evil which God's word rebuketh in us, to the good which it requireth of us.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>Can men repent of themſelves, or when they liſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No, for it is the gift of God, given to them that are born again.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>When is this Repentance to be practiſed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>The practice of Repentance ought to be a continual abhorring of Evil, and cleaving unto that which is good, for as much time as remains in the Fleſh after our Confuſion, yet at ſome times there ought to be a more ſpecial practice and renewing thereof, as after grievous Falls, as we ſee in <hi>David, Pſal.</hi> 51. and in fear of eminent Judgments, which the Pro<g ref="char:EOLhyphen"/>phet calls for, <hi>Amos</hi> 4.12. <hi>Becauſe I will do this unto thee, prepare to meet thy God, O Iſrael.</hi> Or when we ſhould fit our ſelves to receive ſpecial mercies, as when we come to the Lord's Table, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>You have ſhewed me the Proteſtant Doctrine of Repentance, I pray
+<pb n="30" facs="tcp:95190:18"/>God give me Grace to practiſe it all the dayes of my life. But, I pray Sir, Do not the Papiſts teach the ſame?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>No. They teach, 1. That a Sinner is not bound to repent of his Sin preſently, if it be done at any time 'tis ſufficient. Some ſay, he is bound by the Precept of the Church to repent upon the great Holidays: others ſay, once a year, at <hi>Eaſter;</hi> but 'tis the general opinion, that by the Law of God they are not tied to ſo much, but only to repent in the dan<g ref="char:EOLhyphen"/>ger or Article of Death; from whence ſome conclude, that to refuſe to repent, is but a venial ſin: but others ſay, 'tis none at all.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>This ſeems to me to be intolerable, Have they any more ſuch Doctrines?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Alas, Child, this is but the beginning of ſorrows. The next thing therefore that I ſhall mention, is their Doctrines concerning Contrition; which, when it is true and cordial, for having ſinn'd againſt God, the the Church of <hi>Rome</hi> does not allow it to be of any value, unleſs it be joyn'd with a deſire to confeſs their Sins unto a Prieſt; and this is decreed by the Councel of <hi>Trent,</hi> contrary to all Scripture; to the Doctrine of the Prophets, <hi>Ezek.</hi> 18.30. <hi>Repent, and turn your ſelves from all your Tranſgreſ<g ref="char:EOLhyphen"/>ſions, ſo Iniquity ſhall not be your ruine:</hi> to the Doctrine of the Apoſtles, <hi>Repent, and be converted, that your ſins may be blotted out, Act.</hi> 3.19. But this is not all; for as Contrition without Confeſſion will not reconcile us to God, ſo Attrition, as they call it, proceeding from fear of damna<g ref="char:EOLhyphen"/>tion, together with their Sacrament, will do as well. There is no neceſ<g ref="char:EOLhyphen"/>ſity of Contrition at all. If a man live a wicked life 60 or 80 years to<g ref="char:EOLhyphen"/>gether, yet, if in the Article of his Death he be but a little ſorrowful for his Sins; and though this Sorrow hath in it no love of God, but only a fear of Hell, if the Prieſt abſolves him, he paſſes him inſtantly into a ſtate of Salvation. The Prieſt with two fingers and a thumb, can do his work for him in a moment.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon theſe terms, it is a wonder, that all wicked men in the World are not Papiſts, where they may live ſo merrily, and dye ſo ſecurely; but is not Confeſſion a troubleſome thing to them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Not at all. They have an eaſie formal way of it. I confeſs un<g ref="char:EOLhyphen"/>to Almighty God, to the Bleſſed V. <hi>Mary,</hi> to bleſſed <hi>Michael</hi> the Archangel, to bleſſed <hi>Jo. Baptiſt,</hi> to the Holy Apoſtles <hi>Peter</hi> and <hi>Paul,</hi> to all the Saints, and to you, my Ghoſtly Father, that I have very much ſinned in thought, word, and deed, through my fault, through my fault, through my exceed<g ref="char:EOLhyphen"/>ing great fault: Therefore, I beſeech thee, B. Virgin <hi>Mary,</hi> bleſſed <hi>Michael</hi> the Archangel, bleſſed <hi>John Baptiſt,</hi> the holy Apoſtles <hi>Peter</hi> and <hi>Paul,</hi> all the Saints, and you, my Ghoſtly Father, to pray unto our Lord God for me. And when they ſee Princes and Prelates, Women and Boyes do the
+<pb n="31" facs="tcp:95190:18"/>ſame every day, it troubles them not: and they look upon it as a certain Cure: therefore, in their Carnavals, they give themſelves all liberty and licence to do the vileſt things, becauſe they are to be ſo ſoon eaſed of their Crimes by Confeſſion, and the never-failing hand of the Prieſt.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>But I have heard ſome ſay, that they are enjoyn'd Penance, Is not that troubleſome to them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>Alas, Child! their Penances and Satisfactions, as they are hand<g ref="char:EOLhyphen"/>led, are nothing but words, and ineffective ſounds: for if ſome Confeſ<g ref="char:EOLhyphen"/>ſors happen to be ſevere, they may go to a gentler, or they may have them commuted to Money; or they may get ſome body elſe to do them for them, or they may get all ſupplied by an Indulgence; of which, there are ſuch ſtore in the <hi>Lateran</hi> at <hi>Rome,</hi> that, as P. <hi>Boniface</hi> ſaid, no man is able to number them. In the Church of <hi>Sancta Maria de populo,</hi> there are, for every day in the year 2800 years of Pardon. In the Church of St. <hi>Vitus</hi> and <hi>Modeſtus,</hi> there are for every day in the year 7000 years of Pardon, and a third part of all our ſins beſides, and the price of all this is, but praying before an Altar in that Church. In a Book of theirs, called, <hi>The Hours of the moſt Bleſſed Virgin</hi> Mary, <hi>accor<g ref="char:EOLhyphen"/>ding to the uſe of</hi> Sarum, for the ſaying three ſhort Prayers, are promi<g ref="char:EOLhyphen"/>ſed 90000 years of Pardon of deadly ſin. If this ſhould be neglect<g ref="char:EOLhyphen"/>ed, a little Alms to a Prieſt, a Pilgrimage to the Image or Relicks of a Saint, wearing St. <hi>Francis</hi> cord, ſaying over the Beads with an hal<g ref="char:EOLhyphen"/>lowed Appendant, praying at a priviledged Altar, leaving a Legacy for a Soul Maſs, and twenty other Devices, will ſecure the Sinner from ſuffering Puniſhment here or hereafter. And if a man fail in all theſe things, 'tis but going to the Tax of the Apoſtolick Chamber, where there is a price ſet down for his Abſolution that hath kill'd his Fa<g ref="char:EOLhyphen"/>ther or his Mother, Brother, Siſter, or Wife, or that hath lain with his Siſter or Mother, or committed ſuch ſins as are not fit to be named. Theſe Obſervations I hope, Child, are ſufficient, to keep you, and eve<g ref="char:EOLhyphen"/>ry well-meaning Chriſtian, from running into, or abiding in ſuch temptations.</p>
+            </sp>
+            <sp>
+               <speaker>Child.</speaker>
+               <p>
+                  <hi>I beartily thank you for the Advice you have given me, hoping in the Lord that I ſhall be ſtedfaſt, and immoveable, alwayes abounding in the Work of the Lord. I ſhall detain you no longer, but only intreat you to give me the ſum of what you have ſaid, in few words, that I may the better remember it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <p>I ſhall readily comply with your Deſires. The Religion of a Chriſtian conſiſts in Faith and Hope, Repentance and Charity, Divine Worſhip, and celebration of the Sacraments; and finally, in keeping the
+<pb n="32" facs="tcp:95190:19"/>Commandments of God. Now in all theſe, both in Doctrines and Pra<g ref="char:EOLhyphen"/>ctices, the Church of <hi>Rome</hi> does dangerouſly err, and teach men ſo to do. They do Injury to Faith, by creating new Articles, and enjoyning them as of Neceſſity to Salvation; they ſpoil their Hope, by placing it upon Creatures, and devices of their own; they greatly ſin againſt Charity by damning all that are not of their Opinions in things falſe or uncer<g ref="char:EOLhyphen"/>tain, right or wrong; they break in pieces the ſalutary doctrine of Repentance, making it to be conſiſtent with a wicked Life, and little or no Amendment: They worſhip they know not what, and pray to them that hear them not; they not only eat what they worſhip, but adore thoſe things with divine Worſhip, which are not God.</p>
+               <p>And as for the Commandments, they leave one of them out of their Catechiſms, and add ſix new ones of their own, and while they contend for the poſſibility of keeping them all, they do not inſiſt upon the neceſſity of keeping any, till the danger or Article of their Death.</p>
+               <p>And concerning the Sacraments, they take one half of the principal away from the Laity, and they inſtitute little Sacraments of their own, and annex ſpiritual Graces to them without a Divine warrant or In<g ref="char:EOLhyphen"/>ſtitution: if theſe things can conſiſt with the Duty of Chriſtians, cer<g ref="char:EOLhyphen"/>tainly we have loſt the true meaſures of Chriſtianity. Let all therefore that deſire to be ſaved in the day of the Lord Jeſus, give no heed to their ſeducing Spirits and Doctrines of Devils, teaching Lies in Hypo<g ref="char:EOLhyphen"/>criſie, having their Conſcience ſeared with a hot Iron, forbidding to marry, and commanding to abſtain from meats, which God hath crea<g ref="char:EOLhyphen"/>ted to be received with Thanſgivings, 1 <hi>Tim.</hi> 4.1, 2, 3, 4. And let them give God Praiſe, that they were born, and bred up in the Church of <hi>England,</hi> where the word of God is conſtantly read and preached in the Vulgar Tongue, and the Sacraments duely and fully adminiſtred, ac<g ref="char:EOLhyphen"/>cording to Chriſt's Inſtitution; where Repentance is preached accord<g ref="char:EOLhyphen"/>ing to the Meaſures of the Goſpel, Faith in Chriſt propounded accord<g ref="char:EOLhyphen"/>ing to the Rule of the Apoſtles, the Commandments expounded with juſt Severity, Holineſs of Life urged upon all men, as indeſpenſibly ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, and every thing practiſed therein, which is uſeful to the ſaving of our Souls.</p>
+            </sp>
+            <q>Conſider what I ſay, and the Lord give you underſtanding in all things, <bibl>
+                  <hi>2 Tim. 2.7.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95190:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
